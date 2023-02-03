@@ -47,7 +47,13 @@ html{
     border-bottom: 2px solid #6caee0;
     margin: 0;
 }
-
+.form-register-with-email h6{
+    box-sizing: border-box;
+    color:  #4c565e;
+    font-size: 10px;
+    padding: -1px 20px 15px 10px;
+    margin: 8px;
+}
 .form-register-with-email .form-row > label span{
     display: inline-block;
     box-sizing: border-box;
