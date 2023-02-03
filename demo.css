@@ -114,21 +114,6 @@ html{
     background-color: #d6f0c3;
 }
 
-.form-register-with-email:after{
-    content: 'OR';
-    position: absolute;
-    bottom: 330px;
-    right: -100px;
-
-    border-radius: 50%;
-    background-color: #edeca5;
-    width: 50px;
-    height: 50px;
-    color: #93923b;
-    font-size: 17px;
-    line-height: 50px;
-}
-
 
 /*	Making the form responsive. Remove these media queries
     if you don't need the form to work on mobile devices. */
